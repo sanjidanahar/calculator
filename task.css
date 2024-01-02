@@ -1,0 +1,26 @@
+.picture{
+    height: 100px;
+}
+.half-width{
+    width: 50px;
+    float: left;
+    padding: 10px;
+    
+}
+.high-light{
+    color: yellow;
+}
+body{
+    padding: 40px;
+    margin: 0px;
+    padding: 10px 30px;
+   
+   
+    
+}
+.website{
+  
+    background-repeat: none;
+    color: rgb(4, 4, 4);
+
+}
